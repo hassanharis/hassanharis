@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 <!--
 **hassanharis/hassanharis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Haris Hassan and I am an Applied Scientist currently based in Pisa Italy. I am interested in IOT, data science, web development, scientific research, and real world applied projects. I am also fascinated by data visualisation and analysis.
+
+In my spare time, I travel. While travelling, I process life and scientific ideas.
+
+
