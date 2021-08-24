@@ -24,4 +24,4 @@ I write on my blog at leaffin.com!
 
 
 ### Social Media
-[![image](https://user-images.githubusercontent.com/45975234/130657245-170fc7d9-cef5-4832-881d-571917d601d3.png)](http://linkedin.com/in/hassanharis)
+<a href="https://www.linkedin.com/in/hassanharis" target="_blank"> <img src="https://user-images.githubusercontent.com/45975234/130657245-170fc7d9-cef5-4832-881d-571917d601d3.png" width="40" height="40" /></a>
