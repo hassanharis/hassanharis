@@ -20,7 +20,7 @@ My name is Haris Hassan and I am an Applied Scientist currently based in Pisa It
 In my spare time, I travel. While travelling, I process life and scientific ideas.
 
 ### Writing and Blogging
-I write on my blog at leaffin.com!
+I write on my blog at <a href="leaffin.com" target="_blank">leaffin.com</a>!
 
 
 ### Social Media
