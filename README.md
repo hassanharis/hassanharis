@@ -22,8 +22,7 @@ As an amateur physicist, i am intrigued by universal nature of chaotic and rando
 
 If you have any questions, please feel free to send an email to hharis11[a]hotmail[.]com
 
-### Writing and Blogging
-I write on my blog at <a href="leaffin.com" target="_blank">leaffin.com</a>!
+<a href="leaffin.com" target="_blank">leaffin.com</a>!
 
 
 ### Social Media
