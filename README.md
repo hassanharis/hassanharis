@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Haris Hassan and I am an Applied Scientist currently based in Pisa Italy. I am interested in IOT, web development, photonic, scientific research, data science, and real world applied projects. I am also fascinated by data visualisation and analysis.
+As an erasmus scholar, I have formal training in optics/photonics, but tend to approach it very intuitively; I strive for a balance between estimation and precise calculation, as well as between principles and details. However, I believe many problems can be solved by making a thoughtful sketch. Properly labeling the axes and avoiding insignificant data are key to this approach. My interest is piqued by the challenges in photonics, optics, physics, LabVIEW, electronics, data, Python, C, HTML5, and CSS3.
 
-In my spare time, I travel. While travelling, I process life and scientific ideas.
+As an amateur physicist, i am intrigued by universal nature of chaotic and random complex systems in universe to acheieve a balanced synchronisation through (gravitational, chemical, biological, physical) forces stretched over time and space, despite nature's tendency for disorder. Deriving the meaning and recognising patterns in this entropy of universe leads us to theories, equations, formulas, poetry, music and ideas that is our way to compress the universe and predict the future and reflect on the past in time/space.
+
+
+If you have any questions, please feel free to send an email to hharis11[a]hotmail[.]com
 
 ### Writing and Blogging
 I write on my blog at <a href="leaffin.com" target="_blank">leaffin.com</a>!
